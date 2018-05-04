@@ -5,10 +5,10 @@
 sudo echo 0x00000000003FC0 > /sys/kernel/debug/palloc/palloc_mask
 cd /sys/fs/cgroup/palloc/
 echo "Creating partitions for palloc"
-sudo mkdir "part1" "part2" "part3" "part4" "part5" "part6" "leech" "oprio"
+sudo mkdir "part1" "part2" "part3" "part4" "part5" "part6" "leech" "unprio"
 cd /sys/fs/cgroup/cpuset
 echo "Creating partitions for cpusets"
-sudo mkdir "part1" "part2" "part3" "part4" "part5" "part6" "leech" "prio"
+sudo mkdir "part1" "part2" "part3" "part4" "part5" "part6" "leech" "unprio"
 
  for i in `seq 1 6`;
         do

@@ -138,6 +138,7 @@ int main ()
 	
 	FILE *fp = NULL;
 	char out[30][20];
+	int partSize;
 	system("sudo sh initPalloc.sh");
 	while(1)
 	{

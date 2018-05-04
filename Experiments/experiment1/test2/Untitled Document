@@ -1,0 +1,3 @@
+Leech och OpenCv kördes samtidigt
+
+OpenCv hade alla bins och Leech körde utan partitionering
