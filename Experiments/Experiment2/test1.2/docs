@@ -1,0 +1,6 @@
+Detta test kördes via skriptet f.sh som kör båda OpenCv testerna till sammans
+
+båda OpenCv tester kördes på två olika cores.
+
+
+Testet är baserat på statisk partitionering 0-95 och 96-192

@@ -1,0 +1,5 @@
+Detta test består av två openCV som körs på två olika kärnor.
+
+f.sh skriptet används för att köra båda OpenCv testerna samtidigt
+
+Fullständiga controllern används för att ompartitionera beroende på antalet cache missar
