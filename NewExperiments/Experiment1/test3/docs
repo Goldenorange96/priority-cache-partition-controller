@@ -1,0 +1,11 @@
+OpenCv och Leech i två partitioner
+
+Open cv får 0-253
+
+Leech får 254-255
+
+openCv och leech körs på två olika cores
+
+OpenCv får nice -5
+
+kontroll ok
