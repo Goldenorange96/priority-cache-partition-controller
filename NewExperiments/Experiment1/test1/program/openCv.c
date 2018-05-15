@@ -19,7 +19,6 @@ int main ()
 	char pid1 [8];
 	char pid2 [8];
 	char path [50] = "sudo sh script.sh ";
-	//system("sudo sh initPalloc.sh");
 	int i = 0;
 	int index = 0;
 	fp = popen("top -bn1 | head  -n8 | tail -n1 | awk '{print$1}'", "r");

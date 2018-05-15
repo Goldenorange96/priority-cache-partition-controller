@@ -1,9 +1,49 @@
-OpenCv och Leech i två partitioner
+Movie 1:
 
-delar bins 50% 50%, totalt 255
 
-varsin cores
+Movie 2:
 
-Leech körs efter vid ca 100
+Movie 3.1:
+	OpenCv och Leech i två partitioner
 
-OpenCv nice -5
+	delar bins 50% 50%, totalt 255
+
+	varsin cores
+
+	Leech körs efter vid ca 100
+
+	OpenCv nice -5
+
+Movie 3.2:
+	OpenCv och Leech i två partitioner
+
+	delar bins 50% 50%, totalt 255
+
+	varsin cores
+
+	Leech körs efter vid ca 100
+
+	OpenCv nice -5
+	Skillnaden är att printInfo kör från leech skripptet
+
+
+Movie 4: 
+
+	OpenCv och Leech i två partitioner
+
+	delar bins 50% 50%, totalt 255
+
+	varsin cores
+
+	Leech körs efter vid ca 100
+
+	OpenCv nice -5
+
+
+
+Movie 5:
+
+
+Movie 6:
+
+
