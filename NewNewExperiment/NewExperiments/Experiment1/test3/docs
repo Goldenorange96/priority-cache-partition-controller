@@ -1,0 +1,49 @@
+
+
+Movie 1:
+
+Movie 2:
+
+Movie 3:
+
+Movie 4:
+	
+	OpenCv och Leech i två partitioner
+
+	Open cv får 0-253
+
+	Leech får 254-255
+
+	openCv och leech körs på två olika cores
+
+	OpenCv får nice -5
+
+	kontroll ok
+
+Movie 5:
+
+	OpenCv och Leech i två partitioner
+
+	Open cv får 0-253
+
+	Leech får 254-255
+
+	openCv och leech körs på två olika cores
+
+	OpenCv får nice -5
+
+	kontroll ok
+
+Movie 6:
+
+	OpenCv och Leech i två partitioner
+
+	Open cv får 0-253
+
+	Leech får 254-255
+
+	openCv och leech körs på två olika cores
+
+	OpenCv får nice -5
+
+	kontroll ok
